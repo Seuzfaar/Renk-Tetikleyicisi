@@ -1,2 +1,1 @@
-v
-mor
+Bu satırı silip bir tuş atamalısın. Örneğin "v" veya "ctrl+z" gibi tuşlar yazabilirsin.
